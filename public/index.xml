@@ -6,13 +6,13 @@
     <description>Recent content on NSoft America</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 11:04:36 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 11:14:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Tue, 24 Mar 2026 11:04:36 -0500</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 24 Mar 2026 11:14:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description></description>
     </item>
   </channel>
