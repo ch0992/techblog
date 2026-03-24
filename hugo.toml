@@ -11,6 +11,29 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   disableSpecial1stPost = true
 
+  [params.profileMode]
+    enabled = true
+    title = "NSoft America"
+    subtitle = "Innovating through Smart Factory, Logistics, and AI Solutions. We share our technical journey here."
+    imageUrl = "/images/nsoft-tech-logo.png" 
+    imageTitle = "NSoft America Logo"
+    imageWidth = 150
+    imageHeight = 150
+
+    [[params.profileMode.buttons]]
+      name = "View Posts"
+      url = "/posts"
+    [[params.profileMode.buttons]]
+      name = "About NSoft"
+      url = "https://nsoftinc.com"
+
+ [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/NSoft-America-Inc"
+  [[params.socialIcons]]
+    name = "website"
+    url = "https://nsoftinc.com"
+
 [menu]
   [[menu.main]]
     name = "Posts"
