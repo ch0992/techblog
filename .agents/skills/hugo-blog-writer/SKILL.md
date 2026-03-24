@@ -57,7 +57,10 @@ author: "NSoft America"
 ---
 ```
 - **Weight**: Crucial for home page sorting. 10(Top), 20, 30... 1000(Bottom).
-- **Date**: Ensure the time is not in the future (default to current local time or morning hours).
+- **Date (Strategy Required)**: 
+  - **Immediate Visibility**: Use the **morning of the current day (e.g., 09:00:00)** or **yesterday's date** to avoid the 'Future Post Trap' caused by CI/CD runner timezone differences.
+  - **Logical Archiving**: When sequencing related posts, assign sequential dates (e.g., Mar 22, 23, 24) to maintain a logical archive timeline alongside the mandatory `weight`.
+  - **Format**: Always include the full timezone offset (e.g., `2026-03-24T09:00:00-05:00`).
 
 ---
 
