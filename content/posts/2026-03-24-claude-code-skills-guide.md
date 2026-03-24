@@ -4,7 +4,7 @@ date: 2026-03-23
 draft: false
 tags: ["claudecode", "ai-agent", "skills", "automation", "harry-potter"]
 categories: ["AI"]
-description: "단순한 프롬프트 엔지니어링을 넘어, 클로드코드를 진정한 자율형 에이전트로 만드는 '스킬(Skill)' 시스템을 해리포터 세계관에 빗대어 7,000자 분량으로 심층 분석합니다."
+description: "클로드코드(Claude Code)의 스킬 시스템 개념부터 활용 전략까지 상세히 분석합니다."
 author: "NSoft America"
 ---
 

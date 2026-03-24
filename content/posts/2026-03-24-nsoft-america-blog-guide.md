@@ -4,7 +4,7 @@ date: 2026-03-23
 draft: false
 tags: ["guide", "hugo", "github-pages", "collaboration", "onboarding"]
 categories: ["General"]
-description: "NSoft America의 새로운 기술 블로그 기여자를 위한 완벽 가이드입니다. Mac과 Windows 각각의 환경 설정 방법부터 Hugo를 이용한 포스팅 및 배포 워크플로우를 7,000자 분량으로 상세히 설명합니다."
+description: "NSoft America 기술 블로그를 위한 Mac/Windows 환경 설정 및 포스팅 절차 안내서입니다."
 author: "NSoft America"
 ---
 
