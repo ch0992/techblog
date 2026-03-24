@@ -1,4 +1,4 @@
-+++
+---
 title: "NSoft America 기술 블로그 기여 가이드: 환경 설정부터 첫 포스팅 배포까지 (Mac/Windows)"
 date: 2026-03-23
 draft: false
@@ -6,7 +6,7 @@ tags: ["guide", "hugo", "github-pages", "collaboration", "onboarding"]
 categories: ["General"]
 description: "NSoft America의 새로운 기술 블로그 기여자를 위한 완벽 가이드입니다. Mac과 Windows 각각의 환경 설정 방법부터 Hugo를 이용한 포스팅 및 배포 워크플로우를 7,000자 분량으로 상세히 설명합니다."
 author: "NSoft America"
-+++
+---
 
 ## Overview
 NSoft America 기술 블로그의 새로운 필진이 되신 것을 환영합니다! 본 블로그는 정적 사이트 생성기인 **Hugo**와 **GitHub Pages**를 기반으로 운영되며, 모든 포스팅 과정은 Git 워크플로우를 따릅니다. 

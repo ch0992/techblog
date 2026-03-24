@@ -1,4 +1,4 @@
-+++
+---
 title: "클로드코드(Claude Code) 스킬 완벽 가이드: 당신의 AI를 '대마법사'로 진화시키는 방법"
 date: 2026-03-23
 draft: false
@@ -6,7 +6,7 @@ tags: ["claudecode", "ai-agent", "skills", "automation", "harry-potter"]
 categories: ["AI"]
 description: "단순한 프롬프트 엔지니어링을 넘어, 클로드코드를 진정한 자율형 에이전트로 만드는 '스킬(Skill)' 시스템을 해리포터 세계관에 빗대어 7,000자 분량으로 심층 분석합니다."
 author: "NSoft America"
-+++
+---
 
 ## Overview
 최근 개발 생태계에서 가장 뜨거운 화두는 단순히 코드를 짜주는 AI를 넘어, 스스로 판단하고 작업을 완수하는 **'자율형 에이전트(Autonomous Agent)'**입니다. 앤스로픽의 클로드코드(Claude Code)는 이 분야의 선두주자이며, 그 핵심 동력은 바로 **'스킬(Skill)'** 시스템에 있습니다.
