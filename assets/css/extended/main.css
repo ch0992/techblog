@@ -84,6 +84,7 @@ body {
 }
 
 .pagination a {
+    margin: 0 !important;
     color: #ffffff !important;
     font-weight: 700 !important;
     font-size: 1.1rem !important;
