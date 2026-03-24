@@ -96,6 +96,13 @@ body {
     text-decoration: none !important;
 }
 
+.pagination a.active {
+    color: #0b0e11 !important;
+    background: var(--primary) !important; /* 시안 블루 */
+    border-color: var(--primary) !important;
+    font-weight: 800 !important;
+}
+
 .pagination a:hover {
     color: #0b0e11 !important;
     background: var(--primary) !important; /* 시안 블루 */
