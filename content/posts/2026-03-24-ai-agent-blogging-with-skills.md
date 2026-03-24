@@ -90,7 +90,7 @@ NSoft America는 영상에서 강조된 **프로그레시브 디스클로저(Pro
 - [ ] **Standardization**: 모든 필진이 동일한 '스킬 매뉴얼'을 공유하여 글의 품질을 균일화했습니다.
 - [ ] **Automation**: `hugo new`부터 배포까지의 모든 워크플로우를 에이전트에게 안전하게 위임했습니다.
 
-## References (optional)
+## References
 - [NSoft America 기술 블로그 기여 가이드](file:///content/posts/2026-03-24-nsoft-america-blog-guide.md)
 - [Antigravity 공식 엔진 문서](https://github.com/NSoft-America-Inc/NSoft-America-Inc.github.io/wiki)
 

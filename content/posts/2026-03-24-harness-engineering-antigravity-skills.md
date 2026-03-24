@@ -103,7 +103,7 @@ description: "AI 에이전트가 야생마처럼 날뛰지 않고, 정해진 궤
 - [ ] **Token Strategy**: 프로그레시브 디스클로저를 활용해 토큰 효율을 극대화하세요.
 - [ ] **Maintenance**: 에이전트의 실수(Gachas)를 스킬 문서에 기록하여 지속적인 통제력을 확보하세요.
 
-## References (optional)
+## References
 - [(YouTube) Harness Engineering 안티그래비티에 앤트로픽 클로드 스킬 적용하기](https://www.youtube.com/watch?v=2ThXWO3-Db4)
 - [Antigravity Official Documentation](https://github.com/NSoft-America-Inc/NSoft-America-Inc.github.io/wiki)
 

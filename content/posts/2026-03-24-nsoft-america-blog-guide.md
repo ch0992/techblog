@@ -218,7 +218,7 @@ Front Matter에 `images: ["/images/thumbnail.png"]` 항목을 추가하세요. S
 - **검증**: 반드시 로컬(`hugo server`)에서 실물을 확인한 뒤 푸시하세요.
 - **공유**: 여러분의 소중한 지식 공유가 NSoft America 기술 블로그를 풍성하게 만듭니다.
 
-## References (optional)
+## References
 - [Hugo 공식 문서 (가이드라인)](https://gohugo.io/documentation/)
 - [PaperMod 테마 위키](https://github.com/adityatelange/hugo-PaperMod/wiki)
 - [NSoft-America GitHub Actions 배포 현황](https://github.com/NSoft-America-Inc/NSoft-America-Inc.github.io/actions)

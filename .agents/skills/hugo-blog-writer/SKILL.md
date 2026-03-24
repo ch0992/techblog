@@ -21,7 +21,7 @@ Every post must follow this logical flow, aiming for **~7,000 characters** in du
 3. **## Solution / Implementation**: Step-by-step technical implementation with code blocks.
 4. **## Deep Dive / FAQ / Troubleshooting**: (Essential for Depth) Advanced details, common questions, or error handling.
 5. **## Key Takeaways**: High-level summary of exactly what was learned.
-6. **## References (optional)**: Direct links to resources.
+6. **## References**: Direct links to resources.
 
 ### 2. Visual & Formatting Standards
 Technical posts must not be "walls of text". Always use:
