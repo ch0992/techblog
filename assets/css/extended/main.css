@@ -111,8 +111,11 @@ body {
     border-color: var(--primary) !important;
 }
 
-/* 🎨 포스트 본문 헤더 디자인: 시안 블루 적용 */
-.post-content h2, .post-content h3, .post-content h4 {
+/* 🎨 포스트 본문 헤더 디자인: 시안 블루 적용 & 하위 호환성 강화 */
+.post-content h2, 
+.post-content h3, 
+.post-content h4,
+h1.post-title {
     color: var(--primary) !important;
     font-weight: 800 !important;
     margin-top: 2.5rem !important;
@@ -120,22 +123,45 @@ body {
     letter-spacing: -0.5px;
 }
 
-/* 포스트 제목 강조 */
-.post-single .post-title {
-    color: #ffffff !important;
-    background: linear-gradient(90deg, #ffffff, var(--primary));
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 2.5rem !important;
-    margin-bottom: 1rem !important;
+/* 포스트 제목 강조 (그라데이션 & Comet/Safari 하위 호환성) */
+.post-single .post-title,
+.post-entry .post-title {
+    color: var(--primary) !important; /* Fallback */
+    background: linear-gradient(90deg, #ffffff, var(--primary)) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
 }
 
-/* 본문 내 코드 블록 스타일 보완 */
-.post-content code {
-    background: rgba(0, 210, 255, 0.1) !important;
-    color: var(--primary) !important;
-    padding: 0.2rem 0.4rem !important;
-    border-radius: 4px !important;
+/* 🏷️ 하단 태그 및 다음/이전 글 박스: 가독성 개선 (밝은 그레이 톤) */
+.post-tags a, .paginav {
+    background: #f0f2f5 !important; /* 요청하신 밝은 그레이 톤 */
+    color: #0056b3 !important;      /* 시안 블루보다 정독성이 높은 다크 블루 */
+    border-radius: 8px !important;
+    transition: all 0.2s ease !important;
+}
+
+.post-tags a:hover {
+    background: var(--primary) !important;
+    color: #0b0e11 !important;
+}
+
+/* 🌑 글 목록 배경 처리: 화이트 대신 프리미엄 다크/그레이 적용 */
+body.list, .main {
+    background-color: var(--theme) !important;
+}
+
+/* 🚀 포스트 카드 호버링 효과: 살짝 위로 올라오는 애니메이션 */
+.post-entry {
+    background: var(--entry) !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease !important;
+}
+
+.post-entry:hover {
+    transform: translateY(-8px) !important; /* 위로 올라오는 효과 */
+    box-shadow: 0 10px 30px rgba(0, 210, 255, 0.15) !important;
+    border-color: var(--primary) !important;
 }
 
