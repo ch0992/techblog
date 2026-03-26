@@ -11,6 +11,9 @@ author: "NSoft America"
 
 ## Overview
 
+![Anthropic Agent Blueprint Infographic](/images/anthropic-agent-blueprint-infographic.png)
+*장기 실행 AI 에이전트를 위한 시스템 하네스 설계 및 워크플로우*
+
 ![Anthropic Agent Blueprint Concept](/images/anthropic-agent-blueprint.png)
 *복잡한 오케스트레이션을 통해 장기 과제를 수행하는 에이전틱 AI 비주얼 컨셉*
 
