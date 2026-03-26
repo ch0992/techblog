@@ -4,7 +4,7 @@ date: 2026-03-24
 weight: 35
 draft: false
 tags: ["guide", "hugo", "github-pages", "collaboration", "onboarding"]
-categories: ["General"]
+categories: ["Tech"]
 description: "NSoft America 기술 블로그를 위한 Mac/Windows 환경 설정 및 포스팅 절차 안내서입니다."
 author: "NSoft America"
 ---

@@ -4,7 +4,7 @@ date: 2026-03-22
 weight: 30
 draft: false
 tags: ["ai-agent", "skills", "automation", "hugo", "technical-spec"]
-categories: ["Technical"]
+categories: ["Tech"]
 description: "AI 에이전트가 어떻게 NSoft America의 복잡한 규격과 배포 파이프라인을 단 한 번의 실수 없이 완벽하게 수행하는지, 그 기술적 설계도를 전격 공개합니다."
 author: "NSoft Engineering Team"
 ---

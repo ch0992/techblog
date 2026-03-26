@@ -37,11 +37,19 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "Posts"
+    name = "News"
+    url = "/categories/news/"
+    weight = 10
+  [[menu.main]]
+    name = "Tech"
+    url = "/categories/tech/"
+    weight = 20
+  [[menu.main]]
+    name = "All Posts"
     url = "/posts/"
-    weight = 1
+    weight = 30
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 40
 

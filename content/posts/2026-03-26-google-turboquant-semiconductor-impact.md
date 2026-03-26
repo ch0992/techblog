@@ -4,7 +4,7 @@ date: 2026-03-26T09:00:00-05:00
 weight: 10
 draft: false
 tags: ["AI", "Semiconductor", "Google", "TurboQuant", "MarketAnalysis"]
-categories: ["Technical Analysis", "Market Trends"]
+categories: ["News"]
 description: "구글 리서치가 발표한 KV 캐시 압축 알고리즘 'TurboQuant'가 반도체 시장에 던진 파장과 그 기술적 실체를 심층 분석합니다."
 author: "NSoft America"
 ---

@@ -3,7 +3,7 @@ title: "하니스로 엔지니어링 스킬 제작하기: 안티그래비티(Ant
 date: 2026-03-24T09:00:00-05:00
 weight: 20
 tags: ["Antigravity", "Harness Engineering", "Claude Skills", "AI Agent", "Automation"]
-categories: ["Engineering"]
+categories: ["Tech"]
 author: "Antigravity"
 description: "AI 에이전트가 야생마처럼 날뛰지 않고, 정해진 궤도에서 완벽하게 작업하도록 만드는 '마구(Harness)' 설계법의 실체를 공개합니다."
 ---

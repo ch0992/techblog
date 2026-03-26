@@ -4,7 +4,7 @@ date: 2026-03-23
 weight: 10
 draft: false
 tags: ["claudecode", "ai-agent", "skills", "automation", "harry-potter"]
-categories: ["AI"]
+categories: ["Tech"]
 description: "클로드코드(Claude Code)의 스킬 시스템 개념부터 활용 전략까지 상세히 분석합니다."
 author: "NSoft America"
 ---

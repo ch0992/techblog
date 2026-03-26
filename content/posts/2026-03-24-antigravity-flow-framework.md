@@ -4,7 +4,7 @@ date: 2026-03-24
 weight: 40
 draft: false
 tags: ["antigravity", "flow-framework", "ai-engineering", "product-design", "deployment"]
-categories: ["Manual"]
+categories: ["Tech"]
 description: "안티그래비티를 단순한 대화형 도구로 쓰고 계신가요? 아이디어를 프로덕트로 바꾸는 4단계 FLOW 프레임워크를 통해 생산성을 10배 높이는 전략을 공개합니다."
 author: "NSoft Engineering Team"
 ---
