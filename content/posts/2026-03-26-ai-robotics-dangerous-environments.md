@@ -1,7 +1,7 @@
 ---
 title: "위험 지역을 지키는 '눈과 손': 에이전틱 AI와 로봇공학의 혁신적 만남"
 date: 2026-03-26T15:05:00-05:00
-weight: 10
+weight: 20
 draft: false
 tags: ["Robotics", "DangerousEnvironments", "AI-Agents", "ADLINK", "NobleMachines", "IndustrialAI"]
 categories: ["News"]
@@ -10,6 +10,9 @@ author: "NSoft America"
 ---
 
 ## Overview
+
+![Dangerous Env Robot Infographic](/images/dangerous-env-robot-infographic-ko.png)
+*위험 지역 특화 로봇 자동화: ADLINK & Noble Machines 파트너십의 기술적 로드맵*
 
 ![Dangerous Env Robot Concept](/images/dangerous-env-robot.png)
 *위험 환경(석유화학 단지)에서 정밀 점검을 수행하는 차세대 휴머노이드 로봇 비주얼 컨셉*
