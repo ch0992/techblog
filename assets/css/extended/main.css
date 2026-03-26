@@ -33,6 +33,7 @@ body {
 .logo a {
     font-weight: 900 !important;
     font-size: 1.7rem !important;
+    color: #ffffff !important; /* Fallback for older browsers */
     background: linear-gradient(90deg, #ffffff 45%, #00d2ff 65%) !important;
     -webkit-background-clip: text !important;
     background-clip: text !important;
