@@ -32,10 +32,13 @@ Strategic reports must be visually authoritative:
 
 ---
 
-### 3. Tone & Manner
-- **Analytical & Objective**: Avoid marketing fluff. Use data-driven justifications.
-- **Persuasive & Authoritative**: Write as an expert advising the CEO. Be decisive.
-- **Bilingual Context**: While the content is primarily Korean, keep technical terms in English (e.g., TCO, Managed Services, Multi-Cloud) for professional clarity.
+---
+
+### 4. Intelligence-First Research (Gemini/NLM Integration)
+Every strategic report MUST be built on a foundation of verifiable data.
+- **Deep Research**: Always start by invoking `research_start(mode='deep')` or Using Gemini-based MCP to find official manufacturer data (Google Cloud vs. AWS), Gartner reports, and IDC market trends.
+- **Reference Integrity**: Every major comparative claim (Price, Performance, Support) must be backed by a verifiable URL or a cited document from the NotebookLM source list.
+- **Internal Synergy**: Leverage internal Antigravity logs to demonstrate the productivity gain of using specific cloud ecosystem features.
 
 ---
 
@@ -62,8 +65,8 @@ author: "NSoft America Strategy Team"
 ---
 
 ## Execution Workflow
-1.  **Ingest**: Use NotebookLM or Browser Subagent to gather raw data (Pricing, Trends, Support).
-2.  **Analyze**: Distill findings into the 6 mandatory sections. Focus on point-by-point comparisons.
-3.  **Draft**: Write for clarity and depth. Ensure each document hits the ~7,000 character mark.
-4.  **Visualize**: Add Mermaid charts and request Infographics via NLM.
+1.  **Research**: Always start with `research_start(mode='deep', query='...')` to gather AWS vs GCP comparison data, manufacturing trends, and partner benefits from Google Cloud/AWS official sites.
+2.  **Ingest & Sync**: Sync research sources to NotebookLM and use `studio_create(artifact_type='infographic')` for complex visualizations.
+3.  **Analyze & Draft**: Follow the 6 mandatory sections, ensuring each claim has a citation.
+4.  **Visualize**: Embed Mermaid charts and NLM artifacts.
 5.  **Deploy**: Push to `main` and verify on the live blog.
