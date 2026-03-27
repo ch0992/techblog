@@ -70,8 +70,9 @@ git submodule update --init --recursive
 본 프로젝트는 AI 코딩 어시스턴트(Claude Code 등)와 함께 원활하게 협업할 수 있도록 **전용 스킬(Skills)**이 내장되어 있습니다. 이 스킬들은 프로젝트의 복잡한 규칙(Front Matter, 정렬, 스타일 등)을 AI가 자동으로 준수하도록 돕습니다.
 
 ### 사용 가능한 스킬 (Available Skills)
-- **`hugo-blog-writer`**: `.agents/skills/hugo-blog-writer/` 하위에 위치. 기술 블로그 포스팅 전문 작가 스킬입니다.
-- **`hugo-env-setup`**: `.agents/skills/hugo-env-setup/` 하위에 위치. 로컬 환경 자동 구축 및 검증을 위한 자동화 스킬입니다. (처음 프로젝트 시작 시 AI 에이전트에게 **"hugo-env-setup 스킬 써서 초기 환경 다 잡아줘"**라고 요청하세요.)
+- **`hugo-blog-writer`**: `.agents/skills/hugo-blog-writer/` 하위에 위치. 기술 블로그 포스트 전문 작가 소스입니다.
+- **`hugo-report-writer`**: `.agents/skills/hugo-report-writer/` 하위에 위치. 전략적 기술 보고서 및 임원용 분석 리포트 전문 작가 스킬입니다. (이번 Cloud 시리즈 집필에 적극 활용하세요.)
+- **`hugo-env-setup`**: `.agents/skills/hugo-env-setup/` 하위에 위치. 로컬 환경 자동 구축 및 검증을 위한 자동화 스킬입니다.
 
 ### AI에게 글 작성을 요청하는 법 (Usage)
 AI 에이전트(예: 클로드코드)에게 아래와 같이 요청하면 내장된 스킬을 바탕으로 고품질의 초안을 생성합니다.
