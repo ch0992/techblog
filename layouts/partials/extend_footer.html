@@ -1,0 +1,22 @@
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+
+  // 마크다운 코드 블록(language-mermaid)을 찾아 Mermaid가 렌더링 가능한 div로 변환합니다.
+  document.querySelectorAll('pre > code.language-mermaid').forEach((el) => {
+    const pre = el.parentElement;
+    const div = document.createElement('div');
+    div.className = 'mermaid';
+    div.textContent = el.textContent;
+    pre.replaceWith(div);
+  });
+</script>
+
+<style>
+  /* Mermaid 차트 중앙 정렬 및 여백 설정 */
+  .mermaid {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+</style>

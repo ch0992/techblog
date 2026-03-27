@@ -27,8 +27,8 @@ Every strategic report must follow this logical flow:
 ### 2. High-Depth Visual Strategy
 Strategic reports must be visually authoritative:
 - **Tables (Mandatory)**: Every report MUST have at least 1 complex table comparing feature sets, pricing, or timelines.
-- **Infographics (Recommended)**: Use `studio_create(artifact_type='infographic', language='ko')` to summarize multi-cloud architectures or TCO shifts.
-- **Charts (Mermaid)**: Use Mermaid for decision trees, roadmap timelines, or system architecture flows.
+- **Charts (Mermaid Rendered)**: Standard Mermaid syntax (` ```mermaid `) will be automatically rendered as a high-quality SVG/HTML chart in the browser. 
+- **Infographics (Recommended)**: Use `studio_create(artifact_type='infographic', language='ko')` from NotebookLM for complex TCO/Architecture summaries.
 
 ---
 
