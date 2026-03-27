@@ -1,18 +1,18 @@
 ---
-title: "[Report] NSoft America 클라우드 거버넌스 재편: 왜 지금 Google Cloud인가? (1부)"
+title: "[Report] NSoft America 클라우드 거버넌스 재편: 왜 지금 Google Cloud인가? (1/6)"
 date: 2026-03-27
 weight: 1
 draft: false
 tags: ["strategy", "cloud", "GCP", "AWS", "manufacturing-IT", "executive-report"]
 categories: ["Cloud", "Strategy"]
-description: "IDC 2026 수익성 지표 및 Gartner AI 트렌드 분석을 통한 NSoft의 Google Cloud Partner 전환 전략적 타당성 검토 (제1부)"
+description: "IDC 2026 수익성 지표 및 Gartner AI 트렌드 분석을 통한 NSoft의 Google Cloud Partner 전환 전략적 타당성 검토"
 author: "NSoft America Engineering Team"
 ---
 
 # NSoft 클라우드 거버넌스 재편: 2026 글로벌 제조 IT 패러다임의 변화
 
 ## [Report Summary Infographic]
-![NSoft America Cloud Transformation Strategy](https://lh3.googleusercontent.com/notebooklm/ANHLwAym-oUK392ap0xKe5TR5gcrrqEOPz09HdlkYEIR2SOi4sTDieAXnlxunCI576c_Pe4g4VCNeFaIFogHXb4RDIvJdwDF-9oENQiVJHqi8o3kE1cmQoBLPl2r58VVk3USPpBJYhQ5LGTEBpmbEDZ1_2tZt7UeJTY=w2752-d-h1536-mp2)
+![NSoft America Cloud Transformation Strategy](/images/cloud-strategy-infographic-1.png)
 
 > [!NOTE]
 > 본 인포그래픽은 2026년 최신 클라우드 파트너 생태계 리서치(IDC, Gartner)와 NSoft의 전략 자산을 기반으로 생성된 핵심 요약 레이아웃입니다. (Bento Grid 스타일)
@@ -44,12 +44,12 @@ GCP는 지난 8년간 **Gartner Magic Quadrant™ 전략적 클라우드 리더*
 
 #### [표 1] 클라우드 파트너 수익 효율 및 전략적 비교 (IDC 2026)
 
-| 비교 항목 | AWS Partner Network (APN) | Google Cloud Partner Advantage | NSoft의 전략적 이점 |
-| :--- | :--- | :--- | :--- |
-| **수익 승수 ($1 매출당)** | $7.13 | **$7.05 (전년 대비 +18% 급성장)** | GCP 생태계 내의 ISV 고속 성장 기회 확보 |
-| **파트너 등급 체계** | Select / Advanced / Premier | **Select / Premier / Diamond (신설)** | NSoft의 제조 전문 역량 기반 최상위 대우 |
-| **리베이트 요율** | 누적 거래 규모 기반 | **성과 및 이관(Migration) 가중치** | 신규 제조 고객 이관 시 **최대 15-20%** 확보 |
-| **MDF 지원** | 실적 기반 사후 정산 | **전략 프로젝트 사전 펀딩 (Earnings Hub)** | 대형 제조 SI 프로젝트 초기 투자 리스크 상쇄 |
+| 비교 항목                 | AWS Partner Network (APN)   | Google Cloud Partner Advantage             | NSoft의 전략적 이점                         |
+| :------------------------ | :-------------------------- | :----------------------------------------- | :------------------------------------------ |
+| **수익 승수 ($1 매출당)** | $7.13                       | **$7.05 (전년 대비 +18% 급성장)**          | GCP 생태계 내의 ISV 고속 성장 기회 확보     |
+| **파트너 등급 체계**      | Select / Advanced / Premier | **Select / Premier / Diamond (신설)**      | NSoft의 제조 전문 역량 기반 최상위 대우     |
+| **리베이트 요율**         | 누적 거래 규모 기반         | **성과 및 이관(Migration) 가중치**         | 신규 제조 고객 이관 시 **최대 15-20%** 확보 |
+| **MDF 지원**              | 실적 기반 사후 정산         | **전략 프로젝트 사전 펀딩 (Earnings Hub)** | 대형 제조 SI 프로젝트 초기 투자 리스크 상쇄 |
 
 위 [표 1]의 핵심 지표들을 NSoft America의 비즈니스 관점에서 심층 분석하면 다음과 같습니다.
 
@@ -88,12 +88,12 @@ GCPN 2026은 파트너의 기술 역량과 시장 기여도에 따라 세 가지
 
 ### 4.2 티어별 상세 수익 구조 (Estimated Revenue Stream)
 
-| 주요 수익 항목 | Select Tier | Premier Tier | Diamond Tier |
-| :--- | :---: | :---: | :---: |
-| **Migration Incentive** | 3~5% | 8~12% | **15~20%** |
-| **Usage Rebate (연간 누적)** | 5% 미만 | 7~10% | **12~15%** |
-| **MDF (공동 마케팅 펀드)** | 없음 | 프로젝트별 신청 | **전략적 연간 펀딩 배정** |
-| **기술 리소스 지원** | 파트너 포털 교육 | TAM (Shared) | **전담 기술 파트너 (Dedicated)** |
+| 주요 수익 항목               |   Select Tier    |  Premier Tier   |           Diamond Tier           |
+| :--------------------------- | :--------------: | :-------------: | :------------------------------: |
+| **Migration Incentive**      |       3~5%       |      8~12%      |            **15~20%**            |
+| **Usage Rebate (연간 누적)** |     5% 미만      |      7~10%      |            **12~15%**            |
+| **MDF (공동 마케팅 펀드)**   |       없음       | 프로젝트별 신청 |    **전략적 연간 펀딩 배정**     |
+| **기술 리소스 지원**         | 파트너 포털 교육 |  TAM (Shared)   | **전담 기술 파트너 (Dedicated)** |
 
 ### 4.3 시장의 선택 경향: 왜 Diamond 티어로 집중되는가?
 2026년 글로벌 ISV 시장의 흐름은 명확합니다. 단순한 '재판매' 마진만으로는 경쟁이 불가능한 시대가 되었기 때문입니다. 특히 제조 IT 분야의 전략적 파트너들은 구글의 최신 AI(Gemini) 기술을 독점적으로 선구매(Pre-buy)하고 가장 높은 리베이트율을 보장받는 **Diamond 티어**를 경영 전략의 핵심으로 삼고 있습니다.
