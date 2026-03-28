@@ -1,13 +1,13 @@
 paginate = 4
-baseURL = "https://nsoft-america-inc.github.io/"
-languageCode = "en-us"
-title = "NSoft America"
+baseURL = "https://ch0992.github.io/linknest-blog/"
+languageCode = "ko-kr"
+title = "LinkNest"
 theme = "PaperMod"
 
 [params]
   defaultTheme = "dark"
-  description = "NSoft America Tech Blog"
-  author = "NSoft America"
+  description = "LinkNest Technical Blog"
+  author = "LinkNest"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -16,26 +16,23 @@ theme = "PaperMod"
 
   [params.profileMode]
     enabled = true
-    title = "NSoft America"
-    subtitle = "Innovating through Smart Factory, Logistics, and AI Solutions. We share our technical journey here."
-    imageUrl = "/images/nsoft-tech-logo.png" 
-    imageTitle = "NSoft America Logo"
+    title = "LinkNest"
+    subtitle = "기술과 연결을 탐구하는 LinkNest의 기술 블로그입니다."
+    imageUrl = "/images/linknest-logo.png"
+    imageTitle = "LinkNest Logo"
     imageWidth = 150
     imageHeight = 150
 
     [[params.profileMode.buttons]]
-      name = "View Posts"
+      name = "Posts"
       url = "/posts"
     [[params.profileMode.buttons]]
-      name = "About NSoft"
-      url = "https://nsoftinc.com"
+      name = "About"
+      url = "/about"
 
- [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/NSoft-America-Inc"
   [[params.socialIcons]]
-    name = "website"
-    url = "https://nsoftinc.com"
+    name = "github"
+    url = "https://github.com/ch0992/LinkNest"
 
 [menu]
   [[menu.main]]
