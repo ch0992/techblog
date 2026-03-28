@@ -1,13 +1,13 @@
 paginate = 4
 baseURL = "https://ch0992.github.io/techblog/"
 languageCode = "en-us"
-title = "Ethan (Yeong Gyu) Choi"
+title = "Ethan Choi"
 theme = "PaperMod"
 
 [params]
   defaultTheme = "dark"
-  description = "Personal Tech Blog by Ethan (Yeong Gyu) Choi"
-  author = "Ethan (Yeong Gyu) Choi"
+  description = "Personal Tech Blog by Ethan Choi"
+  author = "Ethan Choi"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -16,10 +16,10 @@ theme = "PaperMod"
 
   [params.profileMode]
     enabled = true
-    title = "Ethan (Yeong Gyu) Choi"
+    title = "Ethan Choi"
     subtitle = "Documenting what I learn in Cloud, DevOps, and AI."
     imageUrl = "/techblog/images/icons/logo_icon.png"
-    imageTitle = "Ethan (Yeong Gyu) Choi"
+    imageTitle = "Ethan Choi"
     imageWidth = 150
     imageHeight = 150
 
