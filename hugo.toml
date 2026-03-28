@@ -1,6 +1,6 @@
 paginate = 4
 baseURL = "https://ch0992.github.io/techblog/"
-languageCode = "ko-kr"
+languageCode = "en-us"
 title = "Yeong Gyu Choi"
 theme = "PaperMod"
 
@@ -17,7 +17,7 @@ theme = "PaperMod"
   [params.profileMode]
     enabled = true
     title = "Yeong Gyu Choi"
-    subtitle = "개발하면서 배운 것들을 기록하는 개인 기술 블로그입니다."
+    subtitle = "Documenting what I learn in Cloud, DevOps, and AI."
     imageUrl = "/images/profile.png"
     imageTitle = "Yeong Gyu Choi"
     imageWidth = 150
@@ -25,10 +25,10 @@ theme = "PaperMod"
 
     [[params.profileMode.buttons]]
       name = "Posts"
-      url = "/posts"
+      url = "/techblog/posts/"
     [[params.profileMode.buttons]]
       name = "About"
-      url = "/about"
+      url = "/techblog/about/"
 
   [[params.socialIcons]]
     name = "github"
