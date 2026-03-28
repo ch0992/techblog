@@ -1,13 +1,13 @@
 paginate = 4
-baseURL = "https://ch0992.github.io/linknest-blog/"
+baseURL = "https://ch0992.github.io/techblog/"
 languageCode = "ko-kr"
-title = "LinkNest"
+title = "Yeong Gyu Choi"
 theme = "PaperMod"
 
 [params]
   defaultTheme = "dark"
-  description = "LinkNest Technical Blog"
-  author = "LinkNest"
+  description = "Personal Tech Blog by Yeong Gyu Choi"
+  author = "Yeong Gyu Choi"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -16,10 +16,10 @@ theme = "PaperMod"
 
   [params.profileMode]
     enabled = true
-    title = "LinkNest"
-    subtitle = "기술과 연결을 탐구하는 LinkNest의 기술 블로그입니다."
-    imageUrl = "/images/linknest-logo.png"
-    imageTitle = "LinkNest Logo"
+    title = "Yeong Gyu Choi"
+    subtitle = "개발하면서 배운 것들을 기록하는 개인 기술 블로그입니다."
+    imageUrl = "/images/profile.png"
+    imageTitle = "Yeong Gyu Choi"
     imageWidth = 150
     imageHeight = 150
 
@@ -32,7 +32,10 @@ theme = "PaperMod"
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/ch0992/LinkNest"
+    url = "https://github.com/ch0992"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/yeong-gyu-choi-32355b174/"
 
 [menu]
   [[menu.main]]
