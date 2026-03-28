@@ -3,7 +3,7 @@ title: "About"
 layout: "about"
 ---
 
-## Hi, I'm Yeong Gyu Choi.
+## Hi, I'm Ethan (Yeong Gyu) Choi.
 
 I'm a Senior Platform / DevOps Engineer specializing in Cloud infrastructure and AI tooling, currently based in Auburn, Alabama. I work at NSoft America, where I focus on cloud governance, infrastructure automation, and AI-driven engineering workflows.
 
