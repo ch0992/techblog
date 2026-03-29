@@ -39,11 +39,23 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "All Posts"
-    url = "/posts/"
+    name = "Cloud & Infra"
+    url = "/categories/cloud-infra/"
     weight = 10
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Software & Platform"
+    url = "/categories/software-platform/"
     weight = 20
+  [[menu.main]]
+    name = "AI & Automation"
+    url = "/categories/ai-automation/"
+    weight = 30
+  [[menu.main]]
+    name = "Engineering Lead"
+    url = "/categories/engineering-lead/"
+    weight = 40
+  [[menu.main]]
+    name = "Archive"
+    url = "/posts/"
+    weight = 50
 

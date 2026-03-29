@@ -61,11 +61,12 @@ date: 2026-03-24
 weight: 10
 draft: false
 tags: ["tech", "automation"]
-categories: ["AI", "Engineering", "Technical"]
+categories: ["Cloud & Infra", "Software & Platform", "AI & Automation", "Engineering Lead"]
 description: "A single, powerful punchline summary."
 author: "NSoft America"
 ---
 ```
+- **Categories**: MUST use one of the 5 pillars (Cloud & Infra, Software & Platform, AI & Automation, Engineering Lead, or General/Misc).
 - **Weight**: Crucial for home page sorting. 1(Top), 10, 20... 1000(Bottom).
 - **Date (Strategy Required)**: 
   - **Immediate Visibility**: Use the **morning of the current day (e.g., 09:00:00)** or **yesterday's date** to avoid the 'Future Post Trap' caused by CI/CD runner timezone differences.
