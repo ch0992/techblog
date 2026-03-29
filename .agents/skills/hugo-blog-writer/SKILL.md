@@ -66,8 +66,15 @@ description: "A single, powerful punchline summary."
 author: "NSoft America"
 ---
 ```
-- **Categories**: MUST use one of the 5 pillars (Cloud & Infra, Software & Platform, AI & Automation, Engineering Lead, or General/Misc).
+- **Categories**: MUST use one of the 5 pillars below as the PRIMARY category:
 - **Weight**: Crucial for home page sorting. 1(Top), 10, 20... 1000(Bottom).
+
+#### [Mandatory Category Mapping]
+- **Cloud & Infra**: Infrastructure, AWS/GCP, Kubernetes, Networking, IaC (Terraform). (The Foundation)
+- **Software & Platform**: Distributed Systems, API/Platform Design, Go/Rust/Python, Architecture. (The Build)
+- **AI & Automation**: AI Agents, LLM Orchestration, ML Workflows, Smart Automation. (The Future)
+- **Engineering Lead**: Leadership, DevEx, Personal Growth, Productivity. (The People)
+- **General**: Intro, misc, or general thoughts (rarely used).
 - **Date (Strategy Required)**: 
   - **Immediate Visibility**: Use the **morning of the current day (e.g., 09:00:00)** or **yesterday's date** to avoid the 'Future Post Trap' caused by CI/CD runner timezone differences.
   - **Logical Archiving**: When sequencing related posts, assign sequential dates (e.g., Mar 22, 23, 24) to maintain a logical archive timeline alongside the mandatory `weight`.
