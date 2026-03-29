@@ -20,7 +20,7 @@ AI 코딩 에이전트 시장은 하루가 다르게 진화하고 있습니다. 
 ---
 
 [//]: # (Infographic Placeholder)
-![Antigravity + Claude Code Workflow Infographic](/images/antigravity-workflow-summary.png)
+![Antigravity + Claude Code Workflow Infographic](/techblog/images/antigravity-workflow-summary.png)
 *Antigravity의 전략적 기획과 Claude Code의 정밀한 실행이 결합된 하이브리드 워크플로우 개요*
 
 ---
