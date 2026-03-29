@@ -1,7 +1,7 @@
 ---
 title: "[AIGC Guide] The Antigravity + Claude Code Hybrid Workflow: A New Era of AI Engineering"
 date: 2026-03-29T09:00:00-05:00
-weight: 1
+weight: 2
 draft: false
 tags: ["AI", "Engineering", "Automation", "Antigravity", "ClaudeCode"]
 categories: ["AI & Automation"]
