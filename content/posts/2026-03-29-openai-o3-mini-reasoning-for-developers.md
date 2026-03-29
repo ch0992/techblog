@@ -1,6 +1,6 @@
 ---
 title: "OpenAI o3-mini: The Fastest Reasoning Model for High-Velocity Engineering"
-date: 2026-03-29T14:00:00-05:00
+date: 2026-03-29T10:00:00-05:00
 weight: 1
 draft: false
 tags: ["AI", "OpenAI", "o3-mini", "DeepLearning", "Automation", "LLM"]

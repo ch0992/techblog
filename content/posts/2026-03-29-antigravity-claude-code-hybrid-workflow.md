@@ -4,7 +4,7 @@ date: 2026-03-29T09:00:00-05:00
 weight: 2
 draft: false
 tags: ["AI", "Engineering", "Automation", "Antigravity", "ClaudeCode"]
-categories: ["AI & Automation"]
+categories: ["AI & Automation", "Software & Platform"]
 description: "Combining Google's Antigravity and Anthropic's Claude Code to maximize productivity while minimizing token costs through a sophisticated hybrid tier orchestration."
 author: "Ethan Choi"
 ---
